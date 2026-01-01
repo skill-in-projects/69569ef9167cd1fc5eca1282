@@ -1,0 +1,3 @@
+# Frontend files - Railway should only build the backend
+frontend/
+!.railwayignore
